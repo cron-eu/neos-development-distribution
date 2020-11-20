@@ -42,7 +42,9 @@
         "neos/fusion": "3.3.x-dev",
         "neos/media": "3.3.x-dev",
         "neos/media-browser": "3.3.x-dev",
-        "neos/diff": "3.3.x-dev"
+        "neos/diff": "3.3.x-dev",
+        
+        "typo3fluid/fluid": "2.4.3"
     },
     "suggest": {
         "ext-pdo_sqlite": "For running functional tests out-of-the-box this is required"
